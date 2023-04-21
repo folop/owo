@@ -1,0 +1,1 @@
+Kitsu anime vyhledávání aplikace
